@@ -6,11 +6,12 @@ This repository contains selected data science projects completed during the Tri
 
 ## 📂 Table of Contents
 
-1. [Customer Churn Prediction](#customer-churn-prediction)
-2. [Gold Recovery Prediction](#gold-recovery-prediction)
-3. [Taxi Demand Forecasting](#taxi-demand-forecasting)
-4. [Video Game Sales Analysis](#video-game-sales-analysis)
+## 📂 Table of Contents
 
+- [Customer Churn Prediction](./Customer_Churn_Prediction)
+- [Gold Recovery Prediction](./Gold_Recovery_Prediction)
+- [Taxi Demand Forecasting](./Taxi_Demand_Forecasting)
+- [Video Game Sales Analysis](./Video_Game_Sales_Analysis)
 ---
 
 ## 📊 Customer Churn Prediction
