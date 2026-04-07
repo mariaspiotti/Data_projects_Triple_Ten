@@ -1,7 +1,5 @@
 # Data_projects_Triple_Ten
 
-# Data Projects – TripleTen
-
 This repository contains selected data science projects completed during the TripleTen Data Science program. These projects demonstrate skills in data analysis, machine learning, and business problem solving.
 
 ---
